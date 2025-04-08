@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Configura la ruta del archivo Excel
-excel_path = 'C:\\Users\\luisarmando.mesa\\OneDrive - Grupo VASS\\Documents\\Python\\Rutas projectos.xlsx'
+excel_path = 'C:\\Users\\luisarmando.mesa\\OneDrive - Grupo VASS\\Documents\\Python\\Rutas proyectos.xlsx'
 
 # Carga el archivo Excel en un DataFrame
 df = pd.read_excel(excel_path, header=0)
